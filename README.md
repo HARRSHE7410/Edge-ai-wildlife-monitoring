@@ -67,7 +67,7 @@ python sim/simulate.py       # generates dashboard/events.js from synthetic fram
 - **Ethics:** wildlife and intrusion monitoring only; not for surveilling individuals or villages.
 - **Privacy:** on-device processing, no images stored by default, no facial recognition, no cloud upload of people's images by default.
 
-## Expected outcomes (design goals, not measured results)
+## Expected outcomes 
 
 - Classification runs only on detected change.
 - Fewer false alerts than motion-only triggering.
