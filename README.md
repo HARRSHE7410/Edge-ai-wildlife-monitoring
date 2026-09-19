@@ -1,6 +1,7 @@
 # Event-Triggered Edge AI for Low-Power Wildlife & Intrusion Monitoring
 
 **Program:** 1M1B AI for Sustainability Virtual Internship (with IBM SkillsBuild & AICTE)
+
 **SDG alignment:** SDG 15 (Life on Land) primary; SDG 13 (Climate Action) and SDG 7 (Affordable and Clean Energy) secondary
 
 > **Honest status:** this is a software-only design prototype. The detection logic, alert logic, event log and dashboard are implemented and tested on **synthetic frames**. The real TinyML classifier and the ESP32-CAM firmware are **planned, not built**. No real-world performance numbers are claimed.
