@@ -63,8 +63,6 @@ python sim/simulate.py       # generates dashboard/events.js from synthetic fram
 # then open dashboard/index.html in a browser
 ```
 
-The simulation only shows that the logic behaves as designed (for example, small wind flicker does not wake the classifier, and a moving shadow that does wake it is discarded). Its counts depend on the scenario mix I chose, so they are **not** evidence of real-world savings.
-
 ## Responsible AI considerations
 
 - **Fairness:** test across lighting, weather and species so it does not work only in ideal conditions.
@@ -79,7 +77,7 @@ The simulation only shows that the logic behaves as designed (for example, small
 - Detection and logging work offline; alerts are sent when a link is available.
 - Benefits: farmers (less crop loss), rangers (fewer wasted patrols), wildlife (reduced human-wildlife conflict).
 
-## Roadmap (all planned)
+## Roadmap 
 
 1. Collect and curate a wildlife/intrusion dataset
 2. Train and quantize the classifier in Edge Impulse (small input size, int8)
