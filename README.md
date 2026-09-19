@@ -1,6 +1,5 @@
 # Event-Triggered Edge AI for Low-Power Wildlife & Intrusion Monitoring
 
-**Author:** Harrshetha, Easwari Engineering College
 **Program:** 1M1B AI for Sustainability Virtual Internship (with IBM SkillsBuild & AICTE)
 **SDG alignment:** SDG 15 (Life on Land) primary; SDG 13 (Climate Action) and SDG 7 (Affordable and Clean Energy) secondary
 
